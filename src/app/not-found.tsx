@@ -9,7 +9,7 @@ const notFound = () => {
                     <div className="text-5xl font-dark font-bold">404</div>
                     <p
                         className="text-2xl md:text-3xl font-light leading-normal mb-3"
-                    >Sorry we couldn't find this page. </p>
+                    >Sorry we couldn&apos;t find this page. </p>
 
                     <Link className="px-4 inline py-2 text-sm font-medium leading-5 shadow text-white transition-colors duration-150 border border-transparent rounded-lg focus:outline-none focus:shadow-outline-blue bg-blue-400 active:bg-blue-600 hover:bg-blue-600 w-40 text-center" href="/">back to homepage</Link>
                 </div>
